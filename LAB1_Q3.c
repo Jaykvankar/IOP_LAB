@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main()
 {
-    int f, c;
-    printf("Enter Temerature in Degree Fahrenheit");
-    scanf("%d", &f);
-    c=(f-32)*5/9;
-    printf("Degree Centigrade=%d", c);
+    int gs, bs, hra, oa;
+    printf("Enter Basic salary, HRA, Other Allowances, respectively : \n");
+    scanf("%d%d%d", &bs, &hra, &oa);
+    gs=bs + hra + oa;
+    printf("The Gross salary = %d", gs);
     return 0;
 }
