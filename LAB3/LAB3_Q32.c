@@ -16,7 +16,7 @@ int main()
             sec_max=max;
             max=x;
             }
-        else if (x>sec_max||sec_max==max)
+        else if (x>sec_max&&x<max)
             {
             sec_max=x;
             }
