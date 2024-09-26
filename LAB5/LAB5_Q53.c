@@ -1,9 +1,8 @@
 #include <stdio.h>
 #define n 5
-
-int main() {
+int main()
+{
     int i, j, space;
-
     for (i = 1; i <= n; i++)
     {
         for (space = 1; space <= n - i; space++)
@@ -29,6 +28,5 @@ int main() {
         }
         printf("\n");
     }
-
     return 0;
 }
