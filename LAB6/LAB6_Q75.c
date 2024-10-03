@@ -1,4 +1,3 @@
-//Program to print details of examination results of 10 students
 #include<stdio.h>
 #include<conio.h>
 void main()
