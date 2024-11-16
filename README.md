@@ -23,7 +23,7 @@ Welcome to the IoP Lab Assignments repository! This collection showcases the cod
 - **IDE**: Optional (e.g., Code::Blocks, Visual Studio Code)
 - **Libraries**: `<stdio.h>`, `<stdlib.h>`
 
-## Setup 1. Ensure you have a C compiler installed on your machine.
+## Setup . Ensure you have a C compiler installed on your machine.
 2. Clone the repository or download the assignment files.
 3. Open the files in your preferred IDE or text editor.
 
