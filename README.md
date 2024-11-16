@@ -15,9 +15,11 @@
 Welcome to the IoP Lab Assignments repository! This collection showcases the code written for lab assignments in the Introduction of Programming (IoP) course. It's a reflection of my initial foray into the world of C programming, aimed at honing my skills and understanding the fundamental concepts of the language.
 
 ## 🌟 Key Features
-- **Assignment Documentation**: The 'IoP Lab.pdf' file contains all the lab questions and can be used to reference the corresponding code files.
 - **Comprehensive Coverage**: Includes Assignments 1 through 7, each in a dedicated file.
 - **Execution Instructions**: Step-by-step guide on how to compile and run the programs using the MinGW compiler and Command Prompt.
+
+## 📂 Code Structure
+-Each file follows the naming convention 'Q#', where'Q' signifies 'Question'.
 
 ## Requirements - **Compiler**: GCC or any other C compiler
 - **IDE**: Optional (e.g., Code::Blocks, Visual Studio Code)
@@ -31,9 +33,5 @@ Welcome to the IoP Lab Assignments repository! This collection showcases the cod
 gcc -o program_name program_name.c
 ## Step 2. Run the C programs using the command:
 ./program_name
-## 📂 Code Structure
-.Each file follows the naming convention 'A#Q#', where 'A' denotes 'Assignment' and 'Q' signifies 'Question'.
-
-.Refer to the 'IoP Lab.pdf' for detailed questions corresponding to each code file.
-
-.Output screenshots are provided in PNG format, with names matching the code files.
+## 🙏 Thank You
+Thank you for taking the time to read through this README. Your support and interest in my programming journey mean a lot. If you have any questions or feedback, feel free to reach out!
