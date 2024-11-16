@@ -15,7 +15,7 @@
 Welcome to the IoP Lab Assignments repository! This collection showcases the code written for lab assignments in the Introduction of Programming (IoP) course. It's a reflection of my initial foray into the world of C programming, aimed at honing my skills and understanding the fundamental concepts of the language.
 
 ## 🌟 Key Features
-- **Comprehensive Coverage**: Includes Assignments 1 through 7, each in a dedicated file.
+- **Comprehensive Coverage**: Includes Assignments 1 through 8, each in a dedicated file.
 - **Execution Instructions**: Step-by-step guide on how to compile and run the programs using the MinGW compiler and Command Prompt.
 
 ## 📂 Code Structure
@@ -23,11 +23,11 @@ Welcome to the IoP Lab Assignments repository! This collection showcases the cod
 
 ## Requirements - **Compiler**: GCC or any other C compiler
 - **IDE**: Optional (e.g., Code::Blocks, Visual Studio Code)
-- **Libraries**: `<stdio.h>`, `<stdlib.h>`
+- **Libraries**: `<stdio.h>`, `<stdlib.h>`,etc.
 
 ## 🛠️ Setup. Ensure you have a C compiler installed on your machine.
-2. Clone the repository or download the assignment files.
-3. Open the files in your preferred IDE or text editor.
+1. Clone the repository or download the assignment files.
+2. Open the files in your preferred IDE or text editor.
 
 ## Step 1. Compile the C programs using the command:
 gcc -o program_name program_name.c
