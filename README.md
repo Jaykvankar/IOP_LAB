@@ -25,7 +25,9 @@ Welcome to the IoP Lab Assignments repository! This collection showcases the cod
 
 ## Setup 1. Ensure you have a C compiler installed on your machine.
 2. Clone the repository or download the assignment files.
-3. 3. Open the files in your preferred IDE or text editor.
+3. Open the files in your preferred IDE or text editor.
 
-## Usage 1. Compile the C programs using the command:
+## Step 1. Compile the C programs using the command:
 gcc -o program_name program_name.c
+## Step 2. Run the C programs using the command:
+./program_name
