@@ -23,7 +23,7 @@ Welcome to the IoP Lab Assignments repository! This collection showcases the cod
 - **IDE**: Optional (e.g., Code::Blocks, Visual Studio Code)
 - **Libraries**: `<stdio.h>`, `<stdlib.h>`
 
-## Setup . Ensure you have a C compiler installed on your machine.
+## 🛠️ Setup. Ensure you have a C compiler installed on your machine.
 2. Clone the repository or download the assignment files.
 3. Open the files in your preferred IDE or text editor.
 
@@ -31,3 +31,9 @@ Welcome to the IoP Lab Assignments repository! This collection showcases the cod
 gcc -o program_name program_name.c
 ## Step 2. Run the C programs using the command:
 ./program_name
+## 📂 Code Structure
+.Each file follows the naming convention 'A#Q#', where 'A' denotes 'Assignment' and 'Q' signifies 'Question'.
+
+.Refer to the 'IoP Lab.pdf' for detailed questions corresponding to each code file.
+
+.Output screenshots are provided in PNG format, with names matching the code files.
