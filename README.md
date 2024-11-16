@@ -19,7 +19,13 @@ Welcome to the IoP Lab Assignments repository! This collection showcases the cod
 - **Comprehensive Coverage**: Includes Assignments 1 through 7, each in a dedicated file.
 - **Execution Instructions**: Step-by-step guide on how to compile and run the programs using the MinGW compiler and Command Prompt.
 
-## 🛠️ How to Execute the Programs
-1. **Navigate to the Directory**:
-   ```sh
-   cd [path to your source file]
+## Requirements - **Compiler**: GCC or any other C compiler
+- **IDE**: Optional (e.g., Code::Blocks, Visual Studio Code)
+- **Libraries**: `<stdio.h>`, `<stdlib.h>`
+
+## Setup 1. Ensure you have a C compiler installed on your machine.
+2. Clone the repository or download the assignment files.
+3. 3. Open the files in your preferred IDE or text editor.
+
+## Usage 1. Compile the C programs using the command:
+gcc -o program_name program_name.c
