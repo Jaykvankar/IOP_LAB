@@ -1,4 +1,3 @@
-//Program to sort(selection sort) an array
 #include<stdio.h>
 #include<conio.h>
 void main()
