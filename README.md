@@ -15,7 +15,7 @@
 Welcome to the IoP Lab Assignments repository! This collection showcases the code written for lab assignments in the Introduction of Programming (IoP) course. It's a reflection of my initial foray into the world of C programming, aimed at honing my skills and understanding the fundamental concepts of the language.
 
 ## 🌟 Key Features
-- **Comprehensive Coverage**: Includes Assignments 1 through 8, each in a dedicated file.
+- **Comprehensive Coverage**: Includes Assignments 1 to 10 also Case Study, each in a dedicated file.
 - **Execution Instructions**: Step-by-step guide on how to compile and run the programs using the MinGW compiler and Command Prompt.
 
 ## 📂 Code Structure
